@@ -1,0 +1,14 @@
+/Users/darunkaras/Desktop/learn-csharp/bin/Debug/net10.0/learn-csharp
+/Users/darunkaras/Desktop/learn-csharp/bin/Debug/net10.0/learn-csharp.deps.json
+/Users/darunkaras/Desktop/learn-csharp/bin/Debug/net10.0/learn-csharp.runtimeconfig.json
+/Users/darunkaras/Desktop/learn-csharp/bin/Debug/net10.0/learn-csharp.dll
+/Users/darunkaras/Desktop/learn-csharp/bin/Debug/net10.0/learn-csharp.pdb
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/learn-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/learn-csharp.AssemblyInfoInputs.cache
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/learn-csharp.AssemblyInfo.cs
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/learn-csharp.csproj.CoreCompileInputs.cache
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/learn-csharp.dll
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/refint/learn-csharp.dll
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/learn-csharp.pdb
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/learn-csharp.genruntimeconfig.cache
+/Users/darunkaras/Desktop/learn-csharp/obj/Debug/net10.0/ref/learn-csharp.dll
