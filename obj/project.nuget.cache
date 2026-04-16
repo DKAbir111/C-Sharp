@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "B7t9YhHdQmg=",
+  "dgSpecHash": "KuGOQBk7Dw0=",
   "success": true,
   "projectFilePath": "/Users/darunkaras/Desktop/learn-csharp/learn-csharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/darunkaras/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/darunkaras/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
