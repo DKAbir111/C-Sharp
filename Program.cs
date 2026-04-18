@@ -51,5 +51,31 @@ class Program
         // {
         //     Console.WriteLine($"{num3} is the largest number");
         // }
+
+
+
+        //Reverse String
+
+        // Console.WriteLine("Give a string:");
+        // string str = Console.ReadLine();
+        // string reversedStr = "";
+        // for (int i = str.Length - 1; i >= 0; i--)
+        // {
+        //     reversedStr = reversedStr + str[i];
+        // }
+        // Console.WriteLine($"The reversed string is: {reversedStr}");
+
+
+        // Console.WriteLine("Give a String:");
+        // string str = Console.ReadLine();
+        // char[] arr = str.Reverse().ToArray();
+        // string reversedStr = new string(arr);
+        // Console.WriteLine($"The reversed string is: {reversedStr}");
+
+
+
+
+
+
     }
 }
