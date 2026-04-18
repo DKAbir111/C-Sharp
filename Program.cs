@@ -47,19 +47,50 @@
 // public record Product(int Id, string Name, decimal Price);
 
 
+// class Person
+// {
+//     public string name;
+//     public int age;
+
+// }
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         var person = new Person();
+//         person.name = "John Corner";
+//         person.age = 30;
+//         Console.WriteLine($"Name:{person.name}, Age: {person.age}");
+//     }
+// }
+
+
+//OOP- Object Oriented Programming
+
 class Person
 {
+
     public string name;
     public int age;
 
+    public Person(string name, int age)
+    {
+        this.name = name;
+        this.age = age;
+    }
+
+    public void Display()
+    {
+        Console.WriteLine($"Name:{name}, Age: {age}");
+    }
 }
+
 class Program
 {
     static void Main(string[] args)
     {
-        var person = new Person();
-        person.name = "John Corner";
-        person.age = 30;
-        Console.WriteLine($"Name:{person.name}, Age: {person.age}");
+        Person person = new Person("John Corner", 30);
+        person.Display();
     }
 }
+
